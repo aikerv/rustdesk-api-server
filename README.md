@@ -82,6 +82,8 @@ docker compose --compatibility up --build -d
 ```
 感谢热心网友 @ferocknew 提供。
 
+增加自动阿里云构建镜像
+
 #### Docker方法2：预构建运行
 
 docker run 命令：
